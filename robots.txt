@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shameerpuri.github.io/hi99/sitemap.xml
