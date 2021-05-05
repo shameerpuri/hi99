@@ -3,10 +3,22 @@
     <title>hi99.com</title>
     <link href="https://shameerpuri.github.io/hi99/feed.xml" rel="self" />
     <link href="https://shameerpuri.github.io/hi99" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2021-05-05T19:00:48+05:30</updated>
     <author>
         <name>Shameer</name>
     </author>
     <id>https://shameerpuri.github.io/hi99</id>
 
+    <entry>
+        <title>try</title>
+        <author>
+            <name>Shameer</name>
+        </author>
+        <link href="https://shameerpuri.github.io/hi99/try.html"/>
+        <id>https://shameerpuri.github.io/hi99/try.html</id>
+
+        <updated>2021-05-05T19:00:48+05:30</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
